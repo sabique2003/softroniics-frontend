@@ -1,4 +1,4 @@
-=import { updateProfileApi } from '../../Services/allApis';
+import { updateProfileApi } from '../../Services/allApis';
 
 export const UPDATE_PROFILE_SUCCESS = 'UPDATE_PROFILE_SUCCESS';
 export const UPDATE_PROFILE_ERROR = 'UPDATE_PROFILE_ERROR';
